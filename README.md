@@ -31,6 +31,11 @@ Building a user-friendly application that allows seamless interaction with a lar
 ---
 
 ### PROGRAM:
+```
+Name: R Guruprasad
+Register No: 212222240033
+```
+
 ```py
 import gradio as gr
 from transformers import pipeline
